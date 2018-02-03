@@ -81,7 +81,7 @@ IPFS is a cdn:
 IPFS has a name service:
 - IPNS, an SFS inspired name system
 - global namespace based on PKI
-- serves to build trust chains
+- serves to build tchains
 - compatible with other NSes
 - can map DNS, .onion, .bit, etc to IPNS
 
@@ -183,7 +183,8 @@ If you would you like to start your own language implementation of IPFS, check o
 | Haskell     | https://github.com/davidar/hs-ipfs-api            | |
 | Swift       | https://github.com/ipfs/swift-ipfs-api            | |
 | CommonLisp  | https://github.com/WeMeetAgain/cl-ipfs-api        | |
-| Rust        | https://github.com/gkbrk/rust-ipfs-api            | |
+| Rust        | https://github.com/ferristseng/rust-ipfs-api      | |
+|             | https://github.com/gkbrk/rust-ipfs-api            | |
 |             | https://github.com/rmnoff/rust-ipfs-api           | |
 |             | https://github.com/rschulman/rust-ipfs-api        | |
 | Ruby        | https://github.com/Fryie/ipfs-ruby                | |
